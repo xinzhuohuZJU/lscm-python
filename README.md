@@ -22,7 +22,7 @@ This project requires two third-party **python** library:
 
 Here is an example of a saddle mesh:
 
-
+![saddle example](https://raw.githubusercontent.com/xinzhuohuZJU/lscm-python/main/Fig/lscm_saddle_compare.png)
 
 
 
