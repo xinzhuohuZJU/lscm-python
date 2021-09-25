@@ -26,6 +26,12 @@ Here is an example of a saddle mesh:
 
 
 
+## Reference
+
+[1] Bruno Lévy, Sylvain Petitjean, Nicolas Ray, and Jérome Maillot. 2002. Least squares conformal maps for automatic texture atlas generation. *ACM Trans. Graph.* 21, 3 (July 2002), 362–371. DOI:https://doi.org/10.1145/566654.566590
+
+
+
 ## License
 
 this project is published under the [Apache license](https://en.wikipedia.org/wiki/Apache_License).
